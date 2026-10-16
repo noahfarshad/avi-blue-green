@@ -13,3 +13,4 @@ All notable changes to this project are documented here.
 - All customer-specific identifiers have been replaced with generic example values.
 - Configuration files use placeholder credentials (ChangeMe!) that must be replaced with your own before use.
 - Hostnames follow the *.example.com pattern and IP addresses use the RFC 5737 documentation range (192.0.2.0/24).
+- The file's own version string is 3.4.6, the version that was delivered; the tag numbers the public release.
